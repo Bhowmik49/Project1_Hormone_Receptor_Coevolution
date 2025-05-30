@@ -1,0 +1,36 @@
+Run ID,Scientific Name,Common Name,Reads (Spots),Library Strategy ,LibrarySource,Data Type ,Instrument Model,Library Layout
+SRR4238380,Anolis insolitus,Cordillera Central Twig Anole / La Palma Anole,"66,496,900",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238381,Anolis cybotes,Hispaniolan Stout Anole / Large-headed Anole,"60,555,838",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238382,Anolis occultus,Puerto Rican Twig Anole / Dwarf Anole,"72,174,448",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238383,Anolis lineatopus,Stripe-footed Anole,"50,123,445",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238384,Anolis grahami,Jamaican Turquoise Anole / Graham's Anole,"32,430,007",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238385,Anolis valencienni,Jamaican Twig Anole / Short-tail Anole,"67,708,154",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238386,Anolis sagrei,Brown Anole,"77,858,303",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238387,Anolis cristatellus,Puerto Rican Crested Anole,"69,698,866",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238388,Anolis evermanni,Emerald Anole / Evermann's Anole,"73,492,133",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238389,Anolis angusticeps,Cuban Twig Anole,"34,557,393",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR4238390,Anolis chlorocyanus,Hispaniolan Green Anole,"51,389,372",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2500,PAIRED
+SRR31190375,Anolis lemurinus,Ghost Anole,"97,042,535",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+SRR23804257,Anolis apletophallus,,"334,441,553",Hi-C,GENOMIC,Hi-C (genomic),HiSeq X Ten,PAIRED
+SRR30501130,Anolis tropidonotus,,"97,323,843",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+SRR31253438,Anolis planiceps,,"91,515,702",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+SRR30361216,Anolis rodriguezii,,"75,375,199",WGS,GENOMIC,DNA-Seq (genomic),HiSeq X Ten,PAIRED
+SRR31186253,Anolis sericeus,,"107,878,479",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+SRR21197535,Anolis sagrei ordinatus,Subspecies of Brown Anole,"462,749,634",WGS,GENOMIC,DNA-Seq (genomic),HiSeq X Ten,PAIRED
+SRR21197563,Anolis sagrei ordinatus,Subspecies of Brown Anole,"465,351,391",WGS,GENOMIC,DNA-Seq (genomic),HiSeq X Ten,PAIRED
+SRR25113491,Anolis marmoratus,Guadeloupe Anole,"234,202,306",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2000,PAIRED
+SRR8148313,Anolis auratus,Golden Anole,"269,267,787",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2000,PAIRED
+DRR360734,Anolis allogus,Bueycito Anole,"416,518,406",WGS,GENOMIC,DNA-Seq (genomic),HiSeq X Ten,PAIRED
+SRR24030180,Anolis cuvieri,Cuvier's Anole,"73,603,301",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+DRR360735,Anolis homolechis,Cuban White-fanned Anole,"416,487,487",WGS,GENOMIC,DNA-Seq (genomic),HiSeq X Ten,PAIRED
+SRR24030181,Anolis krugi,Krug's Anole,"33,593,026",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+SRR2651655,Anolis loysiana,Green Anole (Louisiana),"93,081,758",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 2000,PAIRED
+SRR24030175,Anolis stratulus,Band-legged Anole,"64,575,845",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 4000,PAIRED
+SRR24030174,Anolis gundlachi,Gundlach's Anole,"82,438,618",WGS,GENOMIC,DNA-Seq (genomic),Illumina HiSeq 4000,PAIRED
+SRR24030177,Anolis poncensis,Ponce Anole,"67,090,881",WGS,GENOMIC,DNA-Seq (genomic),Illumina NovaSeq 6000,PAIRED
+SRR389085,Anolis carolinensis,Green Anole / American Anole,"55,048,179",RNA-Seq,TRANSCRIPTOMIC,RNA-Seq (transcript),Illumina HiSeq 2000,PAIRED
+DRR232286,Anolis mestrei,Mestre's Anole,"26,832,455",RNA-Seq,TRANSCRIPTOMIC,RNA-Seq (transcriptomic),Illumina HiSeq 4000,PAIRED
+DRR232284,Anolis allisoni,Allison's Anole,"	26,920,501",RNA-Seq,TRANSCRIPTOMIC,RNA-Seq (transcriptomic),Illumina NovaSeq 6000,PAIRED
+DRR232285,Anolis porcatus,Cuban Green Anole,"24,603,664",RNA-Seq,TRANSCRIPTOMIC,RNA-Seq (transcriptomic),Illumina NovaSeq 6000,PAIRED
+DRR232282,Anolis garridoi,Garrido's Anole,"27,626,998",RNA-Seq,TRANSCRIPTOMIC,RNA-Seq (transcriptomic),Illumina HiSeq 4000,PAIRED
+DRR232281,Anolis alutaceus,Blue-eyed Twig Anole,"26,723,632",RNA-Seq,TRANSCRIPTOMIC,RNA-Seq (transcriptomic),Illumina HiSeq 4000,PAIRED
