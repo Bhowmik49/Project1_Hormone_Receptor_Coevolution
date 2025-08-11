@@ -1,0 +1,53 @@
+datasets download genome accession GCF_037176765.1 --include gff3,rna,cds,protein,genome,seq-report
+
+
+datasets API URL-"https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_037176765.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED"
+
+
+datasets command-line query-"datasets download genome accession GCF_037176765.1 --include gff3,rna,cds,protein,genome,seq-report"
+
+Index of /genomes/all/GCF/037/176/765/GCF_037176765.1_rAnoSag1.mat
+Name                                                                Last modified      Size  
+Parent Directory                                                                         -   
+Annotation_comparison/                                              2024-08-20 16:08    -   
+Evidence_alignments/                                                2024-08-20 16:08    -   
+GCF_037176765.1_rAnoSag1.mat_assembly_structure/                    2024-08-20 16:05    -   
+Gnomon_models/                                                      2024-08-20 16:08    -   
+RNASeq_coverage_graphs/                                             2024-08-20 16:08    -   
+RefSeq_transcripts_alignments/                                      2024-08-20 16:08    -   
+GCF_037176765.1-RS_2024_08_annotation_report.xml                    2024-08-20 16:05  105K  
+GCF_037176765.1-RS_2024_08_gene_expression_counts.txt.gz            2024-08-20 16:05  3.5M  
+GCF_037176765.1-RS_2024_08_gene_ontology.gaf.gz                     2024-08-20 16:05  1.2M  
+GCF_037176765.1-RS_2024_08_normalized_gene_expression_counts.txt.gz 2024-08-20 16:05  6.3M  
+GCF_037176765.1-RS_2024_08_rnaseq_alignment_summary.txt             2024-08-20 16:05  6.6K  
+GCF_037176765.1-RS_2024_08_rnaseq_runs.txt                          2024-08-20 16:05   20K  
+GCF_037176765.1_rAnoSag1.mat_assembly_report.txt                    2024-10-27 19:42  4.3K  
+GCF_037176765.1_rAnoSag1.mat_assembly_stats.txt                     2024-10-27 19:42   24K  
+GCF_037176765.1_rAnoSag1.mat_cds_from_genomic.fna.gz                2024-08-20 16:05   16M  
+GCF_037176765.1_rAnoSag1.mat_fcs_report.txt                         2024-08-23 04:00  454   
+GCF_037176765.1_rAnoSag1.mat_feature_count.txt                      2024-08-20 16:05  1.6K  
+GCF_037176765.1_rAnoSag1.mat_feature_table.txt.gz                   2024-08-20 16:05  2.5M  
+GCF_037176765.1_rAnoSag1.mat_genomic.fna.gz                         2024-08-20 16:05  578M  
+GCF_037176765.1_rAnoSag1.mat_genomic.gbff.gz                        2024-08-20 16:05  779M  
+GCF_037176765.1_rAnoSag1.mat_genomic.gff.gz                         2024-08-20 16:05   12M  
+GCF_037176765.1_rAnoSag1.mat_genomic.gtf.gz                         2024-08-20 16:05   13M  
+GCF_037176765.1_rAnoSag1.mat_genomic_gaps.txt.gz                    2024-08-20 16:05  2.0K  
+GCF_037176765.1_rAnoSag1.mat_protein.faa.gz                         2024-08-20 16:05  9.3M  
+GCF_037176765.1_rAnoSag1.mat_protein.gpff.gz                        2024-08-20 16:05   22M  
+GCF_037176765.1_rAnoSag1.mat_pseudo_without_product.fna.gz          2024-08-20 16:05  2.8M  
+GCF_037176765.1_rAnoSag1.mat_rna.fna.gz                             2024-08-20 16:05   31M  
+GCF_037176765.1_rAnoSag1.mat_rna.gbff.gz                            2024-08-20 16:05   82M  
+GCF_037176765.1_rAnoSag1.mat_rna_from_genomic.fna.gz                2024-08-20 16:05   31M  
+GCF_037176765.1_rAnoSag1.mat_translated_cds.faa.gz                  2024-08-20 16:05   11M  
+README.txt                                                          2024-08-27 13:56   55K  
+README_GCF_037176765.1-RS_2024_08                                   2024-08-20 16:05  763   
+annotation_hashes.txt                                               2024-08-20 16:08  410   
+assembly_status.txt                                                 2025-06-05 20:17   14   
+md5checksums.txt                                                    2024-10-27 19:53   25K  
+
+
+
+
+web address-"https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037176765.1/" 
+
+what other ifnoamtion you want, to make the script to download my necessary refenece files, give me the revised script to download them. 
