@@ -28,8 +28,31 @@ The pipeline includes **12 major stages**:
 ---
 
 ## 🧬 Repository Structure
+```
+Project1_Hormone_Receptor_Coevolution/
+├── scripts/
+│   ├── 01_Download/
+│   ├── 01b_reference/
+│   ├── 02_trimming/
+│   ├── 03_qc_testing/
+│   ├── 04_ref_indexing/
+│   ├── 05_mapping/
+│   ├── 06_extract_gene_coordinates_bed_files/
+│   ├── 07_subset_bam/
+│   ├── 08_call_variants_consens/
+│   ├── 09_split_beds/
+│   ├── 10_extracted_consensus_fastas_by_gene/
+│   ├── 11_alignment/
+│   └── 12_missing_data_matrix/
+├── accessions.txt
+├── Data_coverage.xls
+├── Coverage_table.docx
+├── Overview_Available_Data (Working_Dataset2).csv
+└── README.md
 
+```
 ---
+
 
 ## 🧰 Software Environment
 
