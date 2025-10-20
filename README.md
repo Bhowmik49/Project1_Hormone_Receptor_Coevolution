@@ -131,4 +131,4 @@ If you use this workflow or data, please cite:
 ---
 
 🧬 **Maintainer:** Sagar Bhowmik (Ocean)  
-📧 szb0232@auburn.edu  | Schwartz Lab, Department of Biological Sciences, Auburn University,
+📧 szb0232@auburn.edu  | Schwartz Lab, Department of Biological Sciences, Auburn University, Auburn, AL 36849. 
