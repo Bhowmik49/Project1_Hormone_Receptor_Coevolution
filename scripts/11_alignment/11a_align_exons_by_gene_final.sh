@@ -33,4 +33,3 @@ for GENE in "${GENES[@]}"; do
 done
 
 echo "[DONE] Exon alignments completed."
--
