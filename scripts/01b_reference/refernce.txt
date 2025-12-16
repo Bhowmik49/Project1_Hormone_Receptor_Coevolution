@@ -49,5 +49,3 @@ md5checksums.txt                                                    2024-10-27 1
 
 
 web address-"https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037176765.1/" 
-
-what other ifnoamtion you want, to make the script to download my necessary refenece files, give me the revised script to download them. 
